@@ -1,0 +1,12 @@
+#Configuration
+build:
+    version: "1.0"
+
+accounts:
+    message: "Welcome to MyBank account related REST APIs - UAT"
+    contactDetails:
+        name: "laxman Jadhav"
+        email: "laxman.jdv@gmail.com"
+onCallSupport:
+    - 9876540010
+    - 1234560090
