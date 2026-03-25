@@ -5,7 +5,7 @@ build:
 customers:
  message: "Welcome to MyBank customer related REST APIs  PROD"
  contactDetails:
-   name: "Vivek Gohil"
+   name: "Mahesh Patil"
    email: "ghl_vivek@hotmail.com"
  onCallSupport:
  - 9876543210
